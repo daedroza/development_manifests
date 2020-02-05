@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <!-- GitHub Remotes for Projects -->
+  <remote name="origin" fetch="https://github.com" revision="refs/heads/lineage-17.1" />
+
+  <!-- MOTO Vendor Projects -->
+  <project name="daedroza/proprietary_vendor_motorola" path="vendor/motorola" remote="origin" />
+
+  <!-- MOTO SDM660 Payton Projects -->
+  <project name="daedroza/android_device_motorola_payton" path="device/motorola/payton" remote="origin" />
+  <project name="daedroza/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="origin" />
+  <project name="daedroza/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" remote="origin" />
+
+  <!-- MOTO Dependency Projects -->
+  <project name="LineageOS/android_external_bson" path="external/bson" />
+  <project name="LineageOS/android_system_qcom" path="system/qcom" />
+
+</manifest>
