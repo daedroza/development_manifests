@@ -25,6 +25,6 @@
   <project name="LineageOS/android_system_qcom" path="system/qcom" />
 
   <!-- LineageOS Dependency Projects -->
-  <project path="vendor/chromium" name="LineageOS/android_vendor_chromium" revision="lineage-17.1" />
+  <project path="vendor/chromium" name="LineageOS/android_vendor_chromium" revision="lineage-17.1" clone-depth="1" />
 
 </manifest>
