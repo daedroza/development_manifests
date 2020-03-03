@@ -18,7 +18,7 @@
 
   <!-- PIXEL Crosshatch/Blueline Projects -->
   <project name="daedroza/android_device_google_crosshatch" path="device/google/crosshatch" remote="origin" />
-  <project name="daedroza/android_kernel_google_crosshatch" path="kernel/google/crosshatch" remote="origin" />
+  <project name="daedroza/android_kernel_google_msm-4.9" path="kernel/google/crosshatch" remote="origin" />
 
   <!-- MOTO Dependency Projects -->
   <project name="LineageOS/android_external_bson" path="external/bson" />
