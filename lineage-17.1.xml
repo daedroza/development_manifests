@@ -18,8 +18,8 @@
   <project name="daedroza/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" remote="origin" />
   
   <!-- MT6763 GS290 Projects -->
-  <project name="GS290-dev/android_device_gigaset_GS290" path="device/gigaset/GS290" remote="origin" />
-  <project name="GS290-dev/android_kernel_gigaset_mt6763" path="kernel/gigaset/mt6763" remote="origin" />
+  <project name="daedroza/android_device_gigaset_GS290" path="device/gigaset/GS290" remote="origin" />
+  <project name="daedroza/android_kernel_gigaset_mt6763" path="kernel/gigaset/mt6763" remote="origin" />
 
   <!-- MOTO Dependency Projects -->
   <project name="LineageOS/android_external_bson" path="external/bson" />
