@@ -6,7 +6,7 @@
   <remote name="origin" fetch="https://github.com" revision="refs/heads/lineage-17.1" />
 
   <!-- MOTO Vendor Projects -->
-  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="origin" />
+  <project name="daedroza/proprietary_vendor_motorola" path="vendor/motorola" remote="origin" />
   
   <!-- MT6763 Vendor Projects -->
   <project name="GS290-dev/proprietary_vendor_gigaset" path="vendor/gigaset" remote="origin" />
