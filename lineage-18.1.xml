@@ -3,7 +3,7 @@
 <manifest>
 
   <!-- GitHub Remotes for Projects -->
-  <remote name="origin" fetch="https://github.com" revision="refs/heads/lineage-17.1" />
+  <remote name="origin" fetch="https://github.com" revision="refs/heads/lineage-18.1" />
 
   <!-- MOTO Vendor Projects -->
   <project name="daedroza/proprietary_vendor_motorola" path="vendor/motorola" remote="origin" />
