@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <!-- GitHub Remotes for Projects -->
+  <remote name="origin" fetch="https://github.com" revision="refs/heads/lineage-17.1" />
+
+  <!-- MOTO Vendor Projects -->
+  <project name="daedroza/proprietary_vendor_motorola" path="vendor/motorola" remote="origin" />
+  
+  <!-- MT6763 Vendor Projects -->
+  <project name="GS290-dev/proprietary_vendor_gigaset" path="vendor/gigaset" remote="origin" />
+  <project name="GS290-dev/proprietary_vendor_firmware" path="vendor/firmware" remote="origin" />
+
+  <!-- MOTO SDM660 Payton Projects -->
+  <project name="daedroza/android_device_motorola_payton" path="device/motorola/payton" remote="origin" />
+  <project name="daedroza/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="origin" />
+  <project name="daedroza/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" remote="origin" />
+  
+  <!-- MT6763 GS290 Projects -->
+  <project name="daedroza/android_device_gigaset_GS290" path="device/gigaset/GS290" remote="origin" />
+  <project name="daedroza/android_kernel_gigaset_mt6763" path="kernel/gigaset/mt6763" remote="origin" />
+
+  <!-- MOTO Dependency Projects -->
+  <project name="LineageOS/android_external_bson" path="external/bson" />
+  <project name="LineageOS/android_system_qcom" path="system/qcom" />
+  <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" />
+  
+  <!-- MT6763 Dependency Projects -->
+  <project name="LineageOS/android_device_mediatek_sepolicy" path="device/mediatek/sepolicy" />
+</manifest>
