@@ -27,5 +27,5 @@
   <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" />
   
   <!-- MT6763 Dependency Projects -->
-  <project name="LineageOS/android_device_mediatek_sepolicy" path="device/mediatek/sepolicy" />
+  <!-- <project name="LineageOS/android_device_mediatek_sepolicy" path="device/mediatek/sepolicy" /> -->
 </manifest>
